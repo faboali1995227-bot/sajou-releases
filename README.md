@@ -1,0 +1,2 @@
+# sajou-releases
+SAJOU updates
